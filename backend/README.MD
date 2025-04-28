@@ -1,6 +1,6 @@
-# Backend - LiaPlus Project
+# Backend - Blog Website
 
-This is the backend for the **LiaPlus** project, built using **Node.js**, **Express.js**, and **MongoDB**.
+This is the backend for the Blog project, built using **Node.js**, **Express.js**, and **MongoDB**.
 
 It handles **user authentication**, **blog creation**, and **retrieval APIs** with secure JWT token-based authorization.
 
