@@ -19,6 +19,8 @@ It handles **user authentication**, **blog creation**, and **retrieval APIs** wi
 
 🛠️ Installation
 
+```bash
+
 Clone the repository:
 git clone https://github.com/shivcodecf/LiaPlus.git
 
@@ -33,6 +35,7 @@ Create a .env file and add:
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
+
 
 Start the server:
 npm run dev

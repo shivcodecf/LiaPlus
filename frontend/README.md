@@ -1,8 +1,8 @@
-# Frontend - LiaPlus Project
+# Frontend - Blog Website
 
-This is the frontend for the **LiaPlus** project, built using **React.js** and tailwindcss
+This is the frontend for the LiaPlus project, built using React.js and tailwindcss
 
-It allows users to **sign up, log in, create blogs, and view blogs**.
+It allows users to sign up, log in, create blogs, and view blogs.
 
 ---
 
