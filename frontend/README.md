@@ -18,16 +18,16 @@ It allows users to **sign up, log in, create blogs, and view blogs**.
 
 
 🛠️ Installation
-Clone the repository:
+Clone the repository
 git clone https://github.com/shivcodecf/LiaPlus.git
 
-Navigate into the project folder:
+Navigate into the project folder
 cd frontend
 
-Install dependencies:
+Install dependencies
 npm install
 
-Start the development server:
+Start the development server
 npm run dev
 
 
